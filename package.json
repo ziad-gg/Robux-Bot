@@ -1,0 +1,22 @@
+{
+  "name": "robux-bot",
+  "version": "1.0.0",
+  "description": "Mania Robux bot made by ziad",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "Robux",
+    "bot"
+  ],
+  "author": "Ziath#1768 <zemad3040@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "handler.djs": "^1.6.8",
+    "mongoose": "^7.0.4",
+    "noblox.js": "^4.14.1"
+  }
+}
